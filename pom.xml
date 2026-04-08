@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>25</maven.compiler.release>
-        <exec.mainClass>com.mycompany.att32_2.Att32_2</exec.mainClass>
+        <exec.mainClass>com.mycompany.att32_2.Principal</exec.mainClass>
     </properties>
 </project>
